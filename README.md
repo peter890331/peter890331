@@ -59,4 +59,7 @@
 ### 📑 Certificate
 1. 勞動部勞動力發展署技能檢定中心, 機電整合技術士證照 丙級
 2. Taiwan Automation Intelligence and Robotics Association (TAIROA), Automation Engineer, Level 1
-3. TOEIC 795 @ 25-April-2021
+3. TOEIC 795 @ 25-April-2021      
+---
+      
+Created on 18-June-2023 by Peter Yu
