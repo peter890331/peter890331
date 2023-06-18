@@ -44,7 +44,7 @@
    [Github][1]      
    [Youtube][2]
    
-   [1]: https://github.com/peter890331/PS2-Wireless-remote-control-teachable-robotic-arm.git
+   [1]: https://github.com/peter890331/PS2-Wireless-Remote-Control-Teachable-Robotic-Arm.git
    [2]: https://youtu.be/B3R5VX4Qshs
 2. 整合至自偏壓收發機模組的透明基板天線      
    [Github][3]      
