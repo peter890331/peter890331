@@ -60,6 +60,6 @@
 1. TSC 德欣寰宇科技股份有限公司
    - Time：July 2019 ~ September 2019, July 2020 ~ September 2020
    - Title：Assistant engineer
-   - JD：Information security related services, including Vulnerability Assessment, Security Health Check, Security Operation and development of information security materials, etc.      
+   - JD：Information security related services, including Vulnerability Assessment, Security Health Check, Security Operation and development of information security teaching materials, etc.      
 
     123
