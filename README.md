@@ -50,7 +50,7 @@
    [Github][3]      
    [Youtube][4]
 
-   [3]: https://youtu.be/ptymVCwnhSs    
+   [3]: https://github.com/peter890331/Transparent-Substrate-Antennas-Integrating-to-Self-Biased-Transceiver-Modules.git    
    [4]: https://youtu.be/ptymVCwnhSs
 3. new_autoshinyhunter_v3.0
 ---
