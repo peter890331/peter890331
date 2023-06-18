@@ -34,21 +34,21 @@
    - Current research topics are Electrical grid, Multi-Energy system and Reinforcement learning.
 ---
 ### 💾 Projects
-1. PS2 無線遙控教導式機械手臂      
+1. 高中專題 - PS2 無線遙控教導式機械手臂      
    [Github][1]      
    [Youtube][2]
    
    [1]: https://github.com/peter890331/PS2-Wireless-Remote-Control-Teachable-Robotic-Arm.git
    [2]: https://youtu.be/B3R5VX4Qshs
-2. 整合至自偏壓收發機模組的透明基板天線      
+2. 大學專題 - 整合至自偏壓收發機模組的透明基板天線      
    [Github][3]      
    [Youtube][4]
 
    [3]: https://github.com/peter890331/Transparent-Substrate-Antennas-Integrating-to-Self-Biased-Transceiver-Modules.git    
    [4]: https://youtu.be/ptymVCwnhSs
-3. new_autoshinyhunter
-4. 財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法 計畫
-5. 財團法人工業技術研究院 (ITRI) 負載預測情境報告蒐集 計畫
+3. 遊戲腳本 - new_autoshinyhunter
+4. 研究所計畫 - 財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法
+5. 研究所計畫 - 財團法人工業技術研究院 (ITRI) 負載預測情境報告蒐集
 ---
 ### 🖥️ Job Experience
 1. TSC 德欣寰宇科技股份有限公司
