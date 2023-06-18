@@ -40,8 +40,18 @@
    123
 ---
 ### 💾 Projects
-1. PS2 無線遙控教導式機械手臂
-2. 整合至自偏壓收發機模組的透明基板天線
+1. PS2 無線遙控教導式機械手臂      
+   [Github][1]      
+   [Youtube][2]
+   
+   [1]: https://github.com/peter890331/PS2-Wireless-remote-control-teachable-robotic-arm.git
+   [2]: https://youtu.be/B3R5VX4Qshs
+2. 整合至自偏壓收發機模組的透明基板天線      
+   [Github][3]      
+   [Youtube][4]
+
+   [3]: https://youtu.be/ptymVCwnhSs    
+   [4]: https://youtu.be/ptymVCwnhSs
 3. new_autoshinyhunter_v3.0
 ---
 ### 🖥️ Job Experience
