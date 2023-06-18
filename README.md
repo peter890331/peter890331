@@ -1,9 +1,9 @@
 # Hi, I'm Peter Yu (游鎮遠)
 ### I'm an optimistic and aggressive student！
 
-- 👨‍🎓 Currently studying for a Master's degree in the EE department of National Tsing Hua University (NTHU) in Taiwan.
+- 👨‍🎓 Studying for a Master's degree in the EE department of National Tsing Hua University (NTHU) in Taiwan.
 - 🥇 Graduated early in three years from the ECE department of National Taipei University of Technology (NTUT) in Taiwan, awarded the Honorable Mention in the department for the graduation project about Antenna.
-- 🦾 Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan, awarded the Merit Award in 全國高級中等學校專業群科107年專題製作競賽 for the graduation project baout robotic arm.
+- 🦾 Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan, awarded the Merit Award in 全國高級中等學校專業群科107年專題製作競賽 for the graduation project about robotic arm.
 
 > - 📖 Current research topics are Electrical grid, Multi-Energy system and Reinforcement learning.
 > - 👷‍♂️ Interested in side project, has independently developed a game bot scripts, and some small IoT devices, projects, etc.
@@ -18,25 +18,36 @@
 - LinkedIn：
 ---
 ### 🤡 Education
+1. TAIVS
+   - Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan.
+   - Awarded the Merit Award in 全國高級中等學校專業群科107年專題製作競賽 for the graduation project about robotic arm, the title of the project is PS2 無線遙控教導式機械手臂.
+   - Awarded the Honorable Mention in the department for the graduation project about robotic arm, the title of the project is PS2 無線遙控教導式機械手臂.
+   - 勞動部勞動力發展署技能檢定中心, 機電整合技術士證照 丙級      
+
+    123
+2. NTUT ECE
+   - Graduated early in three years from the ECE department of National Taipei University of Technology (NTUT) in Taiwan.
+   - Awarded the Honorable Mention in the department for the graduation project about Antenna, the title of the project is 整合至自偏壓收發機模組的透明基板天線.
+   - GPA 3.9/4, Academic Excellence Award, top one in the class
+   - TOEIC 795 @ 2021/04
+   - Taiwan Automation Intelligence and Robotics Association, 自動化工程師證照 Level 1      
+
+    123
+3. NTHU EE
+   - Studying for a Master's degree in the EE department of National Tsing Hua University (NTHU) in Taiwan.      
+   - Current research topics are Electrical grid, Multi-Energy system and Reinforcement learning.
+
+   123
 ---
 ### 💾 Projects
+1. PS2 無線遙控教導式機械手臂
+2. 整合至自偏壓收發機模組的透明基板天線
+3. new_autoshinyhunter_v3.0
 ---
 ### 🖥️ Job Experience
 1. TSC 德欣寰宇科技股份有限公司
    - Time：July 2019 ~ September 2019, July 2020 ~ September 2020
    - Title：Assistant engineer
-   - JD：Information security related services, including Vulnerability Assessment, Security Health Check, Security Operation and development of information security materials, etc.
-<!--
-**peter890331/peter890331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   - JD：Information security related services, including Vulnerability Assessment, Security Health Check, Security Operation and development of information security materials, etc.      
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    123
