@@ -18,7 +18,7 @@
 - LinkedIn：
 ---
 ### 🤡 Education
-1. TAIVS
+1. TAIVS Control
    - Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan.
    - Awarded the Merit Award in 全國高級中等學校專業群科107年專題製作競賽 for the graduation project about robotic arm, the title of the project is PS2 無線遙控教導式機械手臂.
    - Awarded the Honorable Mention in the department for the graduation project about robotic arm, the title of the project is PS2 無線遙控教導式機械手臂.
