@@ -49,6 +49,7 @@
 3. 遊戲腳本 - new_autoshinyhunter
 4. 研究所計畫 - 財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法
 5. 研究所計畫 - 財團法人工業技術研究院 (ITRI) 負載預測情境報告蒐集
+6. 遊戲腳本 - Beat_Team_Rocket (🥶 on hold)
 ---
 ### 🖥️ Job Experience
 1. TSC 德欣寰宇科技股份有限公司
