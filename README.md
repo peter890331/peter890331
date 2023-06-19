@@ -8,7 +8,7 @@
 > - 📖 Current research topics are Electrical grid, Multi-Energy system and Reinforcement learning.
 > - 👷‍♂️ Interested in side project, has independently developed a game bot scripts, and some small IoT devices, projects, etc.
 > - ⛅ Two summers of internship experience in an Information Security company.
-> - 🐲 Interested in many other things, such as computer games, animals, plants, fossils, models, workout, etc. Also welcome to interact with me.
+> - 🐲 Interested in many other things, such as computer games, animals, carnivorous plants, fossils, models, workout, etc. Also welcome to interact with me.
 
 ### Connet with me：
 - Phone：    +886
