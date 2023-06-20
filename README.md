@@ -51,13 +51,13 @@
 5. 研究所計畫 - 財團法人工業技術研究院 (ITRI) 負載預測情境報告蒐集
 6. 遊戲腳本 - Beat_Team_Rocket (🥶 on hold)
 ---
-### 🖥️ Job Experience
+### 🖥️ Job Experiences
 1. TSC 德欣寰宇科技股份有限公司
    - Time：July 2019 ~ September 2019, July 2020 ~ September 2020
    - Title：Assistant engineer
    - JD：Information security related services, including Vulnerability Assessment, Security Health Check, Security Operation and development of information security teaching materials, etc.
 ---
-### 📑 Certificate
+### 📑 Certificates
 1. 勞動部勞動力發展署技能檢定中心, 機電整合技術士證照 丙級
 2. Taiwan Automation Intelligence and Robotics Association (TAIROA), Automation Engineer, Level 1
 3. TOEIC 795 @ 25-April-2021      
