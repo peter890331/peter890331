@@ -14,8 +14,8 @@
 - Phone：    +886
 - Mail：     peter890331@gmail.com
 - Youtube：  https://youtube.com/@peter0331
-- Github：   https://github.com/peter890331
 - LinkedIn： www.linkedin.com/in/peter890331
+- Linkttee： https://linktr.ee/peter890331
 
 ---
 ### 🤡 Education
