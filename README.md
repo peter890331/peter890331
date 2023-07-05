@@ -1,4 +1,4 @@
-# Hi, I'm Peter Yu (游鎮遠)
+# Hi, I'm 游鎮遠 (Peter Yu)
 ### I'm an optimistic and aggressive student！
 
 - 👨‍🎓 Studying for a Master's degree in the EE department of National Tsing Hua University (NTHU) in Taiwan.
