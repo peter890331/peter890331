@@ -18,6 +18,8 @@
 - Linktree： https://linktr.ee/peter890331
 - Personal Website：https://peter890331.github.io
 
+### My Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,vscode,matlab,latex,git,github,arduino,html,pr,ae&theme=light)](https://skillicons.dev)
 ---
 ### 🤡 Education
 1. TAIVS Control
@@ -73,9 +75,10 @@
 ---
 ### 📰 My GitHub stats
 ![My GitHub stats](http://github-readme-stats.vercel.app/api?username=peter890331)
+<!--
 ### 🖊️ My Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)-->
 ### 😢 My Leetcode stats 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/peter890331?theme=wtf&font=Bai%20Jamjuree)
 
