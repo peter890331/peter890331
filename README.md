@@ -20,6 +20,7 @@
 
 ### My Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,vscode,matlab,latex,git,github,arduino,html,pr,ae&theme=light)](https://skillicons.dev)
+<img src= "https://user-images.githubusercontent.com/126200705/222957151-c6ceac84-9f34-4d12-b6f9-5690426e12ba.svg" width="48px">
 ---
 ### 🤡 Education
 1. TAIVS Control
