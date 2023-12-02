@@ -77,7 +77,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)-->
 ### 😢 My Leetcode stats 
-![LeetCode Stats](https://leetcode.card.workers.dev/peter890331?theme=wtf&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/peter890331?theme=wtf&font=Anek%20Odia&ext=activity)
 
 ---
 Copyright © Peter Yu
