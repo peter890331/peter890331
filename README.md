@@ -16,7 +16,6 @@
 - Youtube：  https://youtube.com/@peter0331
 - LinkedIn： www.linkedin.com/in/peter890331
 - Linktree： https://linktr.ee/peter890331
-- LeetCode： https://leetcode.com/peter890331/
 - Personal Website：https://peter890331.github.io
 
 ### My Languages and Tools
