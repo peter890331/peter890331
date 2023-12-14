@@ -1,4 +1,4 @@
-![image](https://github.com/peter890331/peter890331/assets/91075744/4ede900b-d206-4946-8724-43a7175f4edf)![image](https://github.com/peter890331/peter890331/assets/91075744/5101c629-1c97-4a1f-9431-5788ba277828)# Hi, I'm 游鎮遠 (Peter Yu)
+# Hi, I'm 游鎮遠 (Peter Yu)
 ### I'm an optimistic and aggressive student！
 
 - 👨‍🎓 Studying for a Master's degree in the EE department of National Tsing Hua University (NTHU) in Taiwan.
