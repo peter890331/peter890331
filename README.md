@@ -19,7 +19,7 @@
 - Personal Website：https://peter890331.github.io
 
 ### My Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,vscode,pycharm,matlab,latex,git,github,arduino,html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,pycharm,vscode,matlab,latex,git,github,arduino,html,js&theme=light)](https://skillicons.dev)
 ---
 ### 🤡 Education
 1. TAIVS Control
@@ -60,6 +60,11 @@
    ~~[Github][6]~~ (Private) (🥶 on hold)      
 
    [6]: https://github.com/peter890331/Beat_Team_Rocket
+8. 網頁腳本 - Martingale-Strategy-on-FreeBitcoin-MANUAL-BET      
+   [Github][7]
+
+   [7]: https://github.com/peter890331/Martingale-Strategy-on-FreeBitcoin-MANUAL-BET
+
 ---
 ### 🖥️ Job Experiences
 1. TSC 德欣寰宇科技股份有限公司
