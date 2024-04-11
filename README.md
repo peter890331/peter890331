@@ -19,7 +19,7 @@
 - Personal Website：https://peter890331.github.io
 
 ### My Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,pycharm,vscode,matlab,latex,git,github,arduino,html,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,pycharm,vscode,matlab,latex,anaconda,git,github,arduino,html,js&theme=light)](https://skillicons.dev)
 ---
 ### 🤡 Education
 1. TAIVS Control
