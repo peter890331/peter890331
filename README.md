@@ -85,10 +85,10 @@
 ### 📰 My GitHub stats
 ![My GitHub stats](http://github-readme-stats.vercel.app/api?username=peter890331)
 
-<!--
+
 ### 🖊️ My Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide_progress=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### 😢 My Leetcode stats
 Start from 2023/11/30.
