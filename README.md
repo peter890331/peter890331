@@ -84,15 +84,19 @@
 ---
 ### 📰 My GitHub stats
 ![My GitHub stats](http://github-readme-stats.vercel.app/api?username=peter890331)
+
 <!--
 ### 🖊️ My Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)-->
+
 ### 😢 My Leetcode stats
 Start from 2023/11/30.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/peter890331?theme=wtf&font=Bai%20Jamjuree)
 
+### ▶️ My YouTube stats
+[![YouTube stats](https://youtube-stats-card.vercel.app/api?channelid=UC2oCjrdTp4FmuKjJ-Ej-rtA)](https://www.youtube.com/channel/UC2oCjrdTp4FmuKjJ-Ej-rtA)
 
 
 ---
