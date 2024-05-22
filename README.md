@@ -13,7 +13,6 @@
 ### Connet with me：
 - Phone：    +886
 - Mail：     peter890331@gmail.com
-- Youtube：  https://youtube.com/@peter0331
 - LinkedIn： www.linkedin.com/in/peter890331
 - Linktree： https://linktr.ee/peter890331
 
