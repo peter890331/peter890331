@@ -62,12 +62,12 @@
    [Github][7]
 
    [7]: https://github.com/peter890331/Martingale-Strategy-on-FreeBitcoin-MANUAL-BET
-9. 遊戲輔助網頁： 寶可補給站選秀會 - 潛在座標查詢器 - 中文版 (PokeStop_Showcase-Potential_Croods_Finder-Chinese_Version) (Pokémon Go)      
+9. 遊戲輔助網頁： 寶可補給站選秀會 - 潛在座標查詢器 - 中文版 (PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version) (Pokémon Go)      
    [Github][8]      
    [Website][9]      
 
-   [8]: https://github.com/peter890331/PokeStop_Showcase-Potential_Croods_Finder-Chinese_Version
-   [9]: https://peter890331.github.io/PokeStop_Showcase-Potential_Croods_Finder-Chinese_Version/
+   [8]: https://github.com/peter890331/PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version
+   [9]: https://peter890331.github.io/PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version/
 
 ---
 ### 🖥️ Job Experiences
