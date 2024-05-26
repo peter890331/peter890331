@@ -69,6 +69,13 @@
    [8]: https://github.com/peter890331/PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version
    [9]: https://peter890331.github.io/PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version/
 
+10. 遊戲輔助網頁： PokeStop Showcase - Potential Coords Finder - English Version (PokeStop_Showcase-Potential_Coords_Finder-English_Version) (Pokémon Go)
+   [Github][10]      
+   [Website][11]
+
+   [10]: https://github.com/peter890331/PokeStop_Showcase-Potential_Coords_Finder-English_Version
+   [11]: https://peter890331.github.io/PokeStop_Showcase-Potential_Coords_Finder-English_Version/
+
 ---
 ### 🖥️ Job Experiences
 1. TSC 德欣寰宇科技股份有限公司
