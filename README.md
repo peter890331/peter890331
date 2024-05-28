@@ -52,29 +52,34 @@
    ~~[Github][5]~~ (Private)
 
    [5]: https://github.com/peter890331/new_autoshinyhunter
-5. 研究所計畫：財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法
-6. 研究所計畫：財團法人工業技術研究院 (ITRI) 負載預測情境報告蒐集
-7. 遊戲腳本 - Beat_Team_Rocket (Pokémon Go)      
+4. 研究所計畫：財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法
+5. 研究所計畫：財團法人工業技術研究院 (ITRI) 負載預測情境報告蒐集
+6. 遊戲腳本 - Beat_Team_Rocket (Pokémon Go)      
    ~~[Github][6]~~ (Private) (🥶 on hold)      
 
    [6]: https://github.com/peter890331/Beat_Team_Rocket
-8. 網頁腳本：Martingale-Strategy-on-FreeBitcoin-MANUAL-BET      
+7. 網頁腳本：Martingale-Strategy-on-FreeBitcoin-MANUAL-BET      
    [Github][7]
 
    [7]: https://github.com/peter890331/Martingale-Strategy-on-FreeBitcoin-MANUAL-BET
-9. 遊戲輔助網頁：寶可補給站選秀會 - 潛在座標查詢器 - 中文版 (PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version) (Pokémon Go)      
+8. 遊戲輔助網頁：寶可補給站選秀會 - 潛在座標查詢器 - 中文版 (PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version) (Pokémon Go)      
    [Github][8]      
    [Website][9]      
 
    [8]: https://github.com/peter890331/PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version
    [9]: https://peter890331.github.io/PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version/
 
-10. 遊戲輔助網頁：PokeStop Showcase - Potential Coords Finder - English Version (PokeStop_Showcase-Potential_Coords_Finder-English_Version) (Pokémon Go)      
+9. 遊戲輔助網頁：PokeStop Showcase - Potential Coords Finder - English Version (PokeStop_Showcase-Potential_Coords_Finder-English_Version) (Pokémon Go)      
    [Github][10]      
    [Website][11]      
 
    [10]: https://github.com/peter890331/PokeStop_Showcase-Potential_Coords_Finder-English_Version
    [11]: https://peter890331.github.io/PokeStop_Showcase-Potential_Coords_Finder-English_Version/
+
+10. 輔助工具：scrcpy_Auto_Wi-Fi_Connector      
+    [Github][12]
+
+    [12]: https://github.com/peter890331/scrcpy_Auto_Wi-Fi_Connector
 
 ---
 ### 🖥️ Job Experiences
