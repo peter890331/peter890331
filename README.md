@@ -33,7 +33,7 @@
    - Taiwan Automation Intelligence and Robotics Association (TAIROA), Automation Engineer, Level 1    
 3. NTHU EE
    - Studying for a Master's degree in the EE department of National Tsing Hua University (NTHU) in Taiwan.      
-   - Current research topics are Electrical grid, Multi-Energy system and Reinforcement learning.
+   - Current research topics are Electrical Grid, Multi-Energy System and Reinforcement Learning.
 ---
 ### 💾 Projects
 1. 高中專題：PS2 無線遙控教導式機械手臂      
