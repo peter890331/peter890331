@@ -5,7 +5,7 @@
 - 🥇 Graduated early in three years from the ECE department of National Taipei University of Technology (NTUT) in Taiwan, awarded the Honorable Mention in the department for the graduation project about Antenna.
 - 🦾 Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan, awarded the Merit Award in 全國高級中等學校專業群科107年專題製作競賽 for the graduation project about robotic arm.
 
-   - 📖 Current research topics are Electrical grid, Multi-Energy system and Reinforcement learning.
+   - 📖 Current research topics are Electrical Grid, Multi-Energy System and Reinforcement Learning.
    - 👷‍♂️ Interested in side project, has independently developed a game bot script, and some small IoT devices, projects, etc.
    - ⛅ Two summers of internship experience in an Information Security company.
    - 🐲 Interested in many other things, such as computer games, animals, carnivorous plants, fossils, ambers, models, old coins, old banknotes, etc. Also welcome to interact with me.
