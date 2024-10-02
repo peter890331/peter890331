@@ -49,10 +49,10 @@
 
    [3]: https://github.com/peter890331/Transparent-Substrate-Antennas-Integrating-to-Self-Biased-Transceiver-Modules.git    
    [4]: https://youtu.be/ptymVCwnhSs
-3. 遊戲腳本：new_autoshinyhunter (Pokémon Go)      
+3. 遊戲腳本：new_autoshinyhunter_cmd_version (Pokémon Go)      
    ~~[Github][5]~~ (Private)
 
-   [5]: https://github.com/peter890331/new_autoshinyhunter
+   [5]: https://github.com/peter890331/new_autoshinyhunter_cmd_version
 4. 研究所計畫：財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法
 5. 研究所計畫：財團法人工業技術研究院 (ITRI) 負載預測情境報告蒐集
 6. 遊戲腳本 - Beat_Team_Rocket (Pokémon Go)      
