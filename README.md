@@ -43,41 +43,41 @@
    
    [1]: https://github.com/peter890331/PS2-Wireless-Remote-Control-Teachable-Robotic-Arm.git
    [2]: https://youtu.be/B3R5VX4Qshs
+   
 2. 大學專題：整合至自偏壓收發機模組的透明基板天線      
    [Github][3]      
    [Youtube][4]
 
    [3]: https://github.com/peter890331/Transparent-Substrate-Antennas-Integrating-to-Self-Biased-Transceiver-Modules.git    
    [4]: https://youtu.be/ptymVCwnhSs
+   
 3. 遊戲腳本：new_autoshinyhunter_cmd_version (Pokémon Go)      
    ~~[Github][5]~~ (Private)
 
    [5]: https://github.com/peter890331/new_autoshinyhunter_cmd_version
-4. 研究所計畫：財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法
-5. 研究所計畫：財團法人工業技術研究院 (ITRI) 負載預測情境報告蒐集
-6. 遊戲腳本 - Beat_Team_Rocket (Pokémon Go)      
-   ~~[Github][6]~~ (Private) (🥶 on hold)      
-
-   [6]: https://github.com/peter890331/Beat_Team_Rocket
-7. 網頁腳本：Martingale-Strategy-on-FreeBitcoin-MANUAL-BET      
+   
+4. 研究所計畫：財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法      
+5. 研究所計畫：財團法人工業技術研究院 (ITRI) 負載預測情境報告蒐集       
+6. 網頁腳本：Martingale-Strategy-on-FreeBitcoin-MANUAL-BET      
    [Github][7]
 
    [7]: https://github.com/peter890331/Martingale-Strategy-on-FreeBitcoin-MANUAL-BET
-8. 遊戲輔助網頁：寶可補給站選秀會 - 潛在座標查詢器 - 中文版 (PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version) (Pokémon Go)      
+   
+7. 遊戲輔助網頁：寶可補給站選秀會 - 潛在座標查詢器 - 中文版 (PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version) (Pokémon Go)      
    [Github][8]      
    [Website][9]      
 
    [8]: https://github.com/peter890331/PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version
    [9]: https://peter890331.github.io/PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version/
 
-9. 遊戲輔助網頁：PokeStop Showcase - Potential Coords Finder - English Version (PokeStop_Showcase-Potential_Coords_Finder-English_Version) (Pokémon Go)      
+8. 遊戲輔助網頁：PokeStop Showcase - Potential Coords Finder - English Version (PokeStop_Showcase-Potential_Coords_Finder-English_Version) (Pokémon Go)      
    [Github][10]      
    [Website][11]      
 
    [10]: https://github.com/peter890331/PokeStop_Showcase-Potential_Coords_Finder-English_Version
    [11]: https://peter890331.github.io/PokeStop_Showcase-Potential_Coords_Finder-English_Version/
 
-10. 輔助工具：scrcpy_Auto_Wi-Fi_Connector      
+9. 輔助工具：scrcpy_Auto_Wi-Fi_Connector      
     [Github][12]
 
     [12]: https://github.com/peter890331/scrcpy_Auto_Wi-Fi_Connector
