@@ -78,9 +78,14 @@
    [11]: https://peter890331.github.io/PokeStop_Showcase-Potential_Coords_Finder-English_Version/
 
 9. 輔助工具：scrcpy_Auto_Wi-Fi_Connector      
-    [Github][12]
+   [Github][12]
 
-    [12]: https://github.com/peter890331/scrcpy_Auto_Wi-Fi_Connector
+   [12]: https://github.com/peter890331/scrcpy_Auto_Wi-Fi_Connector
+   
+10. 遊戲腳本：new_autoshinyhunter_gui_version (Pokémon Go)      
+    [Github][13]
+
+   [13]: https://github.com/peter890331/new_autoshinyhunter_gui_version
 
 ---
 ### 🖥️ Job Experiences
