@@ -87,6 +87,25 @@
 
    [13]: https://github.com/peter890331/new_autoshinyhunter_gui_version
 
+11. 交易策略：self-made_banmuxia_MACD_strategy_indicator      
+    [Github][14]      
+
+    [14]: https://github.com/peter890331/self-made_banmuxia_MACD_strategy_indicator
+
+12. ~~擴充功能：拓元自動搶票助手~~      
+   ~~[Github][15]~~ (Private)      
+   ~~[Youtube][16]~~ (Private)      
+
+   [15]: https://github.com/peter890331/tixcraft-Automatic-Ticket-Snatch-Assistant
+   [16]: https://www.youtube.com/watch?v=DbHHNIGr6pM&list=PLN0w7j_rRAO9X598T8Ahxqe1XsXIYu9eS
+   
+13. ~~擴充功能：台灣高鐵自動搶票助手~~      
+   ~~[Github][17]~~ (Private)      
+   ~~[Youtube][18]~~ (Private)      
+
+   [17]: https://github.com/peter890331/TaiwanHighSpeedRail-Automatic-Ticket-Snatch-Assistant
+   [18]: https://www.youtube.com/watch?v=pnutKWBLjlQ&list=PLN0w7j_rRAO9ntGRI2_61DL_pdoL_fq_N
+
 ---
 ### 🖥️ Job Experiences
 1. TSC 德欣寰宇科技股份有限公司
