@@ -102,6 +102,11 @@
 
    [16]: https://github.com/peter890331/TaiwanHighSpeedRail-Automatic-Ticket-Snatch-Assistant
 
+14. 輔助工具：youtube_views_crawler      
+    [Github][17]
+
+    [17]: https://github.com/peter890331/youtube_views_crawler
+
 ---
 ### 🖥️ Job Experiences
 1. TSC 德欣寰宇科技股份有限公司
