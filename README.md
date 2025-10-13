@@ -4,9 +4,9 @@
 
 - 👨‍🎓 Studying for a Master's degree in the EE department of National Tsing Hua University (NTHU) in Taiwan.
 - 🥇 Graduated early in three years from the ECE department of National Taipei University of Technology (NTUT) in Taiwan, awarded the Honorable Mention in the department for the graduation project about antenna.
-- 🦾 Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan, awarded the Merit Award in 全國高級中等學校專業群科107年專題製作競賽 for the graduation project about robotic arm.
+- 🦾 Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan, awarded the Merit Award in 全國高級中等學校專業群科107年專題製作競賽 and the Honorable Mention in the department for the graduation project about robotic arm.
 
-   - 📖 Current research topics are Electrical Grid, Multi-Energy System and Reinforcement Learning.
+   - 📖 Current research topics are Multi-Energy Network and Reinforcement Learning.
    - 👷‍♂️ Interested in side project, has independently developed a game bot script, and some small IoT devices, projects, etc.
    - ⛅ Two summers of internship experience in an Information Security company.
    - 🐲 Interested in many other things, such as computer games, animals, carnivorous plants, fossils, ambers, old coins, old banknotes, etc. Also welcome to interact with me.
@@ -25,16 +25,16 @@
    - Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan.
    - Awarded the Merit Award in 全國高級中等學校專業群科107年專題製作競賽 for the graduation project about robotic arm, the title of the project is PS2 無線遙控教導式機械手臂.
    - Awarded the Honorable Mention in the department for the graduation project about robotic arm, the title of the project is PS2 無線遙控教導式機械手臂.
-   - 勞動部勞動力發展署技能檢定中心, 機電整合技術士證 丙級
+   - Skill Evaluation Center of Workforce Development Agency, evel C technician for electromechanical
 2. NTUT ECE
    - Graduated early in three years from the ECE department of National Taipei University of Technology (NTUT) in Taiwan.
    - Awarded the Honorable Mention in the department for the graduation project about Antenna, the title of the project is 整合至自偏壓收發機模組的透明基板天線.
-   - GPA 3.9/4, Academic Excellence Award, top one in the class
-   - TOEIC 795 @ 25-April-2021
+   - GPA 3.9/4.0, Academic Excellence Award, top one in the class
+   - Test of English for International Communication (TOEIC), 795 @ 25-April-2021
    - Taiwan Automation Intelligence and Robotics Association (TAIROA), Automation Engineer, Level 1    
 3. NTHU EE
    - Studying for a Master's degree in the EE department of National Tsing Hua University (NTHU) in Taiwan.      
-   - Current research topics are Electrical Grid, Multi-Energy System and Reinforcement Learning.
+   - Current research topics are Multi-Energy Network and Reinforcement Learning.
 ---
 ### 💾 Projects
 1. 高中專題：PS2 無線遙控教導式機械手臂      
@@ -51,7 +51,7 @@
    [3]: https://github.com/peter890331/Transparent-Substrate-Antennas-Integrating-to-Self-Biased-Transceiver-Modules.git    
    [4]: https://youtu.be/ptymVCwnhSs
    
-3. 遊戲腳本：new_autoshinyhunter_cmd_version (Pokémon Go)      
+3. ~~遊戲腳本：new_autoshinyhunter_cmd_version (Pokémon Go)~~      
    ~~[Github][5]~~ (Private)
 
    [5]: https://github.com/peter890331/new_autoshinyhunter_cmd_version
@@ -109,13 +109,13 @@
 
 ---
 ### 🖥️ Job Experiences
-1. TSC 德欣寰宇科技股份有限公司
+1. TSC TECHNOLOGIES, INC.
    - Time：July 2019 ~ September 2019, July 2020 ~ September 2020
    - Title：Assistant engineer
    - JD：Information security related services, including Vulnerability Assessment, Security Health Check, Security Operation and development of information security teaching materials, etc.
 ---
 ### 📑 Certificates
-1. 勞動部勞動力發展署技能檢定中心, 機電整合技術士證照 丙級
+1. Skill Evaluation Center of Workforce Development Agency, Level C technician for electromechanical
 2. Taiwan Automation Intelligence and Robotics Association (TAIROA), Automation Engineer, Level 1
 3. TOEIC 795 @ 25-April-2021
 
