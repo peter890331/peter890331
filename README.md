@@ -29,12 +29,13 @@
 2. NTUT ECE
    - Graduated early in three years from the ECE department of National Taipei University of Technology (NTUT) in Taiwan.
    - Awarded the Honorable Mention in the department for the graduation project about Antenna, the title of the project is 整合至自偏壓收發機模組的透明基板天線.
-   - GPA 3.9/4.0, Academic Excellence Award, top one in the class
+   - GPA 3.90/4.0, Academic Excellence Award, top one in the class
    - Test of English for International Communication (TOEIC), 795 @ 25-April-2021
    - Taiwan Automation Intelligence and Robotics Association (TAIROA), Automation Engineer, Level 1    
 3. NTHU EE
    - Studying for a Master's degree in the EE department of National Tsing Hua University (NTHU) in Taiwan.      
-   - Current research topics are Multi-Energy Network and Reinforcement Learning.
+   - Current research topics are Multi-Energy Network and Reinforcement Learning.      
+   - GPA 3.96/4.3
 ---
 ### 💾 Projects
 1. 高中專題：PS2 無線遙控教導式機械手臂      
