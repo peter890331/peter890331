@@ -88,8 +88,8 @@
 
    [13]: https://github.com/peter890331/new_autoshinyhunter_gui_version
 
-11. 交易策略：self-made_banmuxia_MACD_strategy_indicator      
-    [Github][14]      
+11. ~~交易策略：self-made_banmuxia_MACD_strategy_indicator~~      
+    ~~[Github][14]~~ (Private)             
 
     [14]: https://github.com/peter890331/self-made_banmuxia_MACD_strategy_indicator
 
