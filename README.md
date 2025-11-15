@@ -21,14 +21,13 @@
 ### 🤡 Education
 1. TAIVS Control
    - Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan.
-   - Awarded a Merit Award in the 2018 National Vocational High School Project Competition for the graduation project “PS2 Wireless Remote Control Teachable Robotic Arm”.      
-   - Awarded an Honorable Mention in the department for the graduation project “PS2 Wireless Remote Control Teachable Robotic Arm”.      
+   - Awarded a Merit Award in the 2018 National Vocational High School Project Competition and an Honorable Mention in the department for the graduation project “PS2 Wireless Remote Control Teachable Robotic Arm”.      
 2. NTUT ECE
-   - Graduated from the ECE Department of National Taipei University of Technology (NTUT) in Taiwan.
+   - Graduated early in three years with a B.S. in Electronic Engineering from National Taipei University of Technology (NTUT), Taiwan.
    - Awarded an Honorable Mention in the department for the undergraduate project “Transparent Substrate Antennas Integrating to Self-Biased Transceiver Modules”.      
    - GPA 3.90/4.0; Academic Excellence Award, Ranked 1st in class; Graduated early.      
 3. NTHU EE
-   - Currently pursuing a M.S. in Electrical Engineering at National Tsing Hua University (NTHU) in Taiwan.      
+   - Currently pursuing a M.S. in Electrical Engineering at National Tsing Hua University (NTHU), Taiwan.      
    - Working on a Master’s thesis titled "Multi-Objective Reinforcement Learning based Dynamic Weight Adjustment Method for Balancing Costs and Carbon Emissions in Multi-Energy Network."      
    - GPA 3.96/4.3
 ---
