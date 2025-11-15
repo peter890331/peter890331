@@ -23,13 +23,10 @@
    - Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan.
    - Awarded the Merit Award in 全國高級中等學校專業群科107年專題製作競賽 for the graduation project about robotic arm, the title of the project is PS2 無線遙控教導式機械手臂.
    - Awarded the Honorable Mention in the department for the graduation project about robotic arm, the title of the project is PS2 無線遙控教導式機械手臂.
-   - Skill Evaluation Center of Workforce Development Agency, evel C technician for electromechanical
 2. NTUT ECE
    - Graduated early in three years from the ECE department of National Taipei University of Technology (NTUT) in Taiwan.
    - Awarded the Honorable Mention in the department for the graduation project about Antenna, the title of the project is 整合至自偏壓收發機模組的透明基板天線.
    - GPA 3.90/4.0, Academic Excellence Award, top one in the class
-   - Test of English for International Communication (TOEIC), 795 @ 25-April-2021
-   - Taiwan Automation Intelligence and Robotics Association (TAIROA), Automation Engineer, Level 1    
 3. NTHU EE
    - Studying for a Master's degree in the EE department of National Tsing Hua University (NTHU) in Taiwan.      
    - Current research topics are Multi-Energy Network and Reinforcement Learning.      
