@@ -53,7 +53,7 @@
    [5]: https://github.com/peter890331/new_autoshinyhunter_cmd_version
    
 4. 研究所計畫：財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法      
-5. 研究所計畫：財團法人工業技術研究院 (ITRI) 一一一年度勞務委託期末報告 負載預測情境報告蒐集       
+5. 研究所計畫：財團法人工業技術研究院 (ITRI) 一一一年度勞務委託 負載預測情境報告蒐集       
 6. 網頁腳本：Martingale-Strategy-on-FreeBitcoin-MANUAL-BET      
    [Github][7]
 
