@@ -2,12 +2,12 @@
 
 ### I'm an optimistic and aggressive student！ 
 
-- 👨‍🎓 Studying for a Master's degree in the EE department of National Tsing Hua University (NTHU) in Taiwan.
-- 🥇 Graduated early in three years from the ECE department of National Taipei University of Technology (NTUT) in Taiwan, awarded the Honorable Mention in the department for the graduation project about antenna.
-- 🦾 Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan, awarded the Merit Award in 全國高級中等學校專業群科107年專題製作競賽 and the Honorable Mention in the department for the graduation project about robotic arm.
+- 👨‍🎓 Currently pursuing a M.S. in Electrical Engineering at National Tsing Hua University (NTHU), Taiwan. Research focus on Multi-Energy Network and Reinforcement Learning.
+- 🥇 Graduated early in three years with a B.S. in Electronic Engineering from National Taipei University of Technology (NTUT), Taiwan, and received the Academic Excellence Award. Awarded an Honorable Mention in the department for an undergraduate project on an antenna.
+- 🦾 Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan. Awarded a Merit Award in the 2018 National Vocational High School Project Competition and an Honorable Mention in the department for a graduation project about robotic arm.
 
-   - 👷‍♂️ Interested in side project, has independently developed a game bot script, and some small IoT devices, projects, etc.
-   - 🐲 Interested in many other things, such as computer games, animals, carnivorous plants, fossils, ambers, old coins, old banknotes, etc. Also welcome to interact with me.
+   - 👷‍♂️ Interested in side project, has independently developed a game bot script, several small IoT devices, and other projects.
+   - 🐲 Curious about many other things, such as computer games, animals, carnivorous plants, fossils, ambers, old coins, and old banknotes. Always happy to interact!
 
 ### Connet with me：
 - Phone：    +886
@@ -21,15 +21,15 @@
 ### 🤡 Education
 1. TAIVS Control
    - Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan.
-   - Awarded the Merit Award in 全國高級中等學校專業群科107年專題製作競賽 for the graduation project about robotic arm, the title of the project is PS2 無線遙控教導式機械手臂.
-   - Awarded the Honorable Mention in the department for the graduation project about robotic arm, the title of the project is PS2 無線遙控教導式機械手臂.
+   - Awarded a Merit Award in the 2018 National Vocational High School Project Competition for the graduation project “PS2 Wireless Remote Control Teachable Robotic Arm”.      
+   - Awarded an Honorable Mention in the department for the graduation project “PS2 Wireless Remote Control Teachable Robotic Arm”.      
 2. NTUT ECE
-   - Graduated early in three years from the ECE department of National Taipei University of Technology (NTUT) in Taiwan.
-   - Awarded the Honorable Mention in the department for the graduation project about Antenna, the title of the project is 整合至自偏壓收發機模組的透明基板天線.
-   - GPA 3.90/4.0, Academic Excellence Award, top one in the class
+   - Graduated from the ECE Department of National Taipei University of Technology (NTUT) in Taiwan.
+   - Awarded an Honorable Mention in the department for the undergraduate project “Transparent Substrate Antennas Integrating to Self-Biased Transceiver Modules”.      
+   - GPA 3.90/4.0; Academic Excellence Award, Ranked 1st in class; Graduated early.      
 3. NTHU EE
-   - Studying for a Master's degree in the EE department of National Tsing Hua University (NTHU) in Taiwan.      
-   - Current research topics are Multi-Energy Network and Reinforcement Learning.      
+   - Currently pursuing a M.S. in Electrical Engineering at National Tsing Hua University (NTHU) in Taiwan.      
+   - Working on a Master’s thesis titled "Multi-Objective Reinforcement Learning based Dynamic Weight Adjustment Method for Balancing Costs and Carbon Emissions in Multi-Energy Network."      
    - GPA 3.96/4.3
 ---
 ### 💾 Projects
