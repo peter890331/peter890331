@@ -24,58 +24,53 @@
    [3]: https://github.com/peter890331/Transparent-Substrate-Antennas-Integrating-to-Self-Biased-Transceiver-Modules.git    
    [4]: https://youtu.be/ptymVCwnhSs
    
-3. ~~遊戲腳本：new_autoshinyhunter_cmd_version (Pokémon Go)~~      
-   ~~[Github][5]~~ (Private)
-
-   [5]: https://github.com/peter890331/new_autoshinyhunter_cmd_version
-   
-4. 研究所計畫：財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法      
-5. 研究所計畫：財團法人工業技術研究院 (ITRI) 一一一年度勞務委託 負載預測情境報告蒐集       
-6. 網頁腳本：Martingale-Strategy-on-FreeBitcoin-MANUAL-BET      
+3. 研究所計畫：財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法      
+4. 研究所計畫：財團法人工業技術研究院 (ITRI) 一一一年度勞務委託 負載預測情境報告蒐集       
+5. 網頁腳本：Martingale-Strategy-on-FreeBitcoin-MANUAL-BET      
    [Github][7]
 
    [7]: https://github.com/peter890331/Martingale-Strategy-on-FreeBitcoin-MANUAL-BET
    
-7. 遊戲輔助網頁：寶可補給站選秀會 - 潛在座標查詢器 - 中文版 (PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version) (Pokémon Go)      
+6. 遊戲輔助網頁：寶可補給站選秀會 - 潛在座標查詢器 - 中文版 (PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version) (Pokémon Go)      
    [Github][8]      
    [Website][9]      
 
    [8]: https://github.com/peter890331/PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version
    [9]: https://peter890331.github.io/PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version/
 
-8. 遊戲輔助網頁：PokeStop Showcase - Potential Coords Finder - English Version (PokeStop_Showcase-Potential_Coords_Finder-English_Version) (Pokémon Go)      
+7. 遊戲輔助網頁：PokeStop Showcase - Potential Coords Finder - English Version (PokeStop_Showcase-Potential_Coords_Finder-English_Version) (Pokémon Go)      
    [Github][10]      
    [Website][11]      
 
    [10]: https://github.com/peter890331/PokeStop_Showcase-Potential_Coords_Finder-English_Version
    [11]: https://peter890331.github.io/PokeStop_Showcase-Potential_Coords_Finder-English_Version/
 
-9. 輔助工具：scrcpy_Auto_Wi-Fi_Connector      
+8. 輔助工具：scrcpy_Auto_Wi-Fi_Connector      
    [Github][12]
 
    [12]: https://github.com/peter890331/scrcpy_Auto_Wi-Fi_Connector
    
-10. 遊戲腳本：new_autoshinyhunter_gui_version (Pokémon Go)      
+9. 遊戲腳本：new_autoshinyhunter_gui_version (Pokémon Go)      
     [Github][13]
 
    [13]: https://github.com/peter890331/new_autoshinyhunter_gui_version
 
-11. ~~交易策略：self-made_banmuxia_MACD_strategy_indicator~~      
+10. ~~交易策略：self-made_banmuxia_MACD_strategy_indicator~~      
     ~~[Github][14]~~ (Private)             
 
     [14]: https://github.com/peter890331/self-made_banmuxia_MACD_strategy_indicator
 
-12. ~~擴充功能：拓元自動搶票助手~~      
+11. ~~擴充功能：拓元自動搶票助手~~      
    ~~[Github][15]~~ (Private)        
 
    [15]: https://github.com/peter890331/tixcraft-Automatic-Ticket-Snatch-Assistant
    
-13. ~~擴充功能：台灣高鐵自動搶票助手~~      
+12. ~~擴充功能：台灣高鐵自動搶票助手~~      
    ~~[Github][16]~~ (Private)          
 
    [16]: https://github.com/peter890331/TaiwanHighSpeedRail-Automatic-Ticket-Snatch-Assistant
 
-14. 輔助工具：youtube_views_crawler      
+13. 輔助工具：youtube_views_crawler      
     [Github][17]
 
     [17]: https://github.com/peter890331/youtube_views_crawler
