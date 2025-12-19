@@ -4,10 +4,11 @@
 
 #### Connet with me: https://linktr.ee/peter890331
 
+---
 ### 📋 My Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,pycharm,vscode,matlab,latex,anaconda,git,github,arduino,html,js&theme=light)](https://skillicons.dev)
----
 
+---
 ### 💾 My Projects
 1. 高中專題：PS2 無線遙控教導式機械手臂      
    [Github][1]      
@@ -80,13 +81,12 @@
     [17]: https://github.com/peter890331/youtube_views_crawler
 
 ---
-### 📰 My GitHub stats
-![My GitHub stats](http://github-readme-stats.vercel.app/api?username=peter890331)
-
-
 ### 🖊️ My Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide_progress=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)-->
+
+### 📰 My GitHub stats
+![My GitHub stats](http://github-readme-stats.vercel.app/api?username=peter890331)
 
 ### 😢 My Leetcode stats
 Start from 2023/11/30.
