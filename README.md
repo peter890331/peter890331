@@ -1,37 +1,14 @@
 # Hi, I'm 游鎮遠 (Peter Yu)
 
-### I'm an optimistic and aggressive student！ 
+#### Welcome to my coding corner.
 
-- 👨‍🎓 Currently pursuing a M.S. in Electrical Engineering at National Tsing Hua University (NTHU), Taiwan. Research focus on Multi-Energy Network and Reinforcement Learning.
-- 🥇 Graduated early in three years with a B.S. in Electronic Engineering from National Taipei University of Technology (NTUT), Taiwan, and received the Academic Excellence Award. Awarded an Honorable Mention in the department for an undergraduate project on an antenna.
-- 🦾 Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan. Awarded a Merit Award in the 2018 National Vocational High School Project Competition and an Honorable Mention in the department for a graduation project about robotic arm.
+#### Connet with me: https://linktr.ee/peter890331
 
-   - 👷‍♂️ Interested in side project, has independently developed a game bot script, several small IoT devices, and other projects.
-   - 🐲 Curious about many other things, such as computer games, animals, carnivorous plants, fossils, ambers, old coins, and old banknotes. Always happy to interact!
-
-### Connet with me：
-- Phone：    +886
-- Mail：     peter890331@gmail.com
-- LinkedIn： www.linkedin.com/in/peter890331
-- Linktree： https://linktr.ee/peter890331
-
-### My Languages and Tools
+### 📋 My Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,pycharm,vscode,matlab,latex,anaconda,git,github,arduino,html,js&theme=light)](https://skillicons.dev)
 ---
-### 🤡 Education
-1. TAIVS Control
-   - Graduated from the Control department of Taipei Municipal Daan Vocational High School (TAIVS) in Taiwan.
-   - Awarded a Merit Award in the 2018 National Vocational High School Project Competition and an Honorable Mention in the department for the graduation project “PS2 Wireless Remote Control Teachable Robotic Arm”.      
-2. NTUT ECE
-   - Graduated early in three years with a B.S. in Electronic Engineering from National Taipei University of Technology (NTUT), Taiwan.
-   - Awarded an Honorable Mention in the department for the undergraduate project “Transparent Substrate Antennas Integrating to Self-Biased Transceiver Modules”.      
-   - GPA 3.90/4.0; Academic Excellence Award, Ranked 1st in class; Graduated early.      
-3. NTHU EE
-   - Currently pursuing a M.S. in Electrical Engineering at National Tsing Hua University (NTHU), Taiwan.      
-   - Working on a Master’s thesis titled "Multi-Objective Reinforcement Learning based Dynamic Weight Adjustment Method for Balancing Costs and Carbon Emissions in Multi-Energy Network."      
-   - GPA 3.96/4.3
----
-### 💾 Projects
+
+### 💾 My Projects
 1. 高中專題：PS2 無線遙控教導式機械手臂      
    [Github][1]      
    [Youtube][2]
@@ -103,18 +80,6 @@
     [17]: https://github.com/peter890331/youtube_views_crawler
 
 ---
-### 🖥️ Job Experiences
-1. TSC TECHNOLOGIES, INC.
-   - Time：July 2019 ~ September 2019, July 2020 ~ September 2020
-   - Title：Assistant engineer
-   - JD：Information security related services, including Vulnerability Assessment, Security Health Check, Security Operation and development of information security teaching materials, etc.
----
-### 📑 Certificates
-1. Skill Evaluation Center of Workforce Development Agency, Level C technician for electromechanical
-2. Taiwan Automation Intelligence and Robotics Association (TAIROA), Automation Engineer, Level 1
-3. TOEIC 795 @ 25-April-2021
-
----
 ### 📰 My GitHub stats
 ![My GitHub stats](http://github-readme-stats.vercel.app/api?username=peter890331)
 
@@ -127,10 +92,6 @@
 Start from 2023/11/30.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/peter890331?theme=wtf&font=Bai%20Jamjuree)
-
-### ▶️ My YouTube stats
-[![YouTube stats](https://youtube-stats-card.vercel.app/api?channelid=UC2oCjrdTp4FmuKjJ-Ej-rtA)](https://www.youtube.com/channel/UC2oCjrdTp4FmuKjJ-Ej-rtA)
-
 
 ---
 Copyright © Peter Yu
