@@ -75,6 +75,11 @@
 
     [17]: https://github.com/peter890331/youtube_views_crawler
 
+14. 遊戲腳本：google_diamond_valley_2025_bot (Google 超鑽感謝祭 2025)      
+    ~~[Github][18]~~ (Private)   
+
+    [18]: https://github.com/peter890331/google_diamond_valley_2025_bot
+
 ---
 ### 🖊️ My Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter890331&hide_progress=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
