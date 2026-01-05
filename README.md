@@ -5,10 +5,6 @@
 #### Connet with me: https://linktr.ee/peter890331
 
 ---
-### 📋 My Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,pycharm,vscode,matlab,latex,anaconda,git,github,arduino,html,js&theme=light)](https://skillicons.dev)
-
----
 ### 💾 My Projects
 1. 高中專題：PS2 無線遙控教導式機械手臂      
    [Github][1]      
