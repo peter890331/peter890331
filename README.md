@@ -78,11 +78,11 @@
 
     [18]: https://github.com/peter890331/google_diamond_valley_2025_bot
 
-15. 遊戲腳本：Beat_Team_Rocket (Pokémon Go)      
+15. 遊戲腳本：Beat_Team_Rocket_cmd_version (Pokémon Go)      
     [Github][19]      
     [Youtube][20]
 
-    [19]: https://github.com/peter890331/Beat_Team_Rocket
+    [19]: https://github.com/peter890331/Beat_Team_Rocket_cmd_version
     [20]: https://youtu.be/BnfUjKVbdCE
 
 ---
