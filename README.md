@@ -68,22 +68,22 @@
 
    [15]: https://github.com/peter890331/tixcraft-Automatic-Ticket-Snatch-Assistant
    
-12. ~~擴充功能：台灣高鐵自動搶票助手~~      
+13. ~~擴充功能：台灣高鐵自動搶票助手~~      
    ~~[Github][16]~~ (Private)          
 
    [16]: https://github.com/peter890331/TaiwanHighSpeedRail-Automatic-Ticket-Snatch-Assistant
 
-13. 輔助工具：youtube_views_crawler      
+14. 輔助工具：youtube_views_crawler      
     [Github][17]
 
     [17]: https://github.com/peter890331/youtube_views_crawler
 
-14. 遊戲腳本：google_diamond_valley_2025_bot (Google 超鑽感謝祭 2025)      
+15. 遊戲腳本：google_diamond_valley_2025_bot (Google 超鑽感謝祭 2025)      
     ~~[Github][18]~~ (Private)   
 
     [18]: https://github.com/peter890331/google_diamond_valley_2025_bot
 
-15. 遊戲腳本：Beat_Team_Rocket_cmd_version (Pokémon Go)      
+16. 遊戲腳本：Beat_Team_Rocket_cmd_version (Pokémon Go)      
     [Github][19]      
 
     [19]: https://github.com/peter890331/Beat_Team_Rocket_cmd_version
