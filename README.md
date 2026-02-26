@@ -45,8 +45,13 @@
    [Github][12]
 
    [12]: https://github.com/peter890331/scrcpy_Auto_Wi-Fi_Connector
+
+9. 遊戲腳本：new_autoshinyhunter_cmd_version (Pokémon Go)    
+   [Github][20]
+
+   [20]: https://github.com/peter890331/new_autoshinyhunter_cmd_version
    
-9. 遊戲腳本：new_autoshinyhunter_gui_version (Pokémon Go)      
+11. 遊戲腳本：new_autoshinyhunter_gui_version (Pokémon Go)      
    [Github][13]      
    [Youtube][21]
 
@@ -80,10 +85,8 @@
 
 15. 遊戲腳本：Beat_Team_Rocket_cmd_version (Pokémon Go)      
     [Github][19]      
-    [Youtube][20]
 
     [19]: https://github.com/peter890331/Beat_Team_Rocket_cmd_version
-    [20]: https://youtu.be/BnfUjKVbdCE
 
 ---
 ### 🖊️ My Languages
