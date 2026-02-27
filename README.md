@@ -47,7 +47,7 @@
    [12]: https://github.com/peter890331/scrcpy_Auto_Wi-Fi_Connector
 
 9. 遊戲腳本：new_autoshinyhunter_cmd_version (Pokémon Go)    
-   [Github][20]
+   ~~[Github][20]~~ (Private)   
 
    [20]: https://github.com/peter890331/new_autoshinyhunter_cmd_version
    
