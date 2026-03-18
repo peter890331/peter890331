@@ -61,7 +61,7 @@
 11. 交易策略：self-made_banmuxia_MACD_strategy_indicator      
     ~~[Github][14]~~ (Private)             
 
-    [14]: https://github.com/peter890331/self-made_banmuxia_MACD_strategy_indicator
+   [14]: https://github.com/peter890331/self-made_banmuxia_MACD_strategy_indicator
 
 12. ~~擴充功能：拓元自動搶票助手~~      
    ~~[Github][15]~~ (Private)        
@@ -74,20 +74,27 @@
    [16]: https://github.com/peter890331/TaiwanHighSpeedRail-Automatic-Ticket-Snatch-Assistant
 
 14. 輔助工具：youtube_views_crawler      
-    [Github][17]
+   [Github][17]
 
-    [17]: https://github.com/peter890331/youtube_views_crawler
+   [17]: https://github.com/peter890331/youtube_views_crawler
 
 15. 遊戲腳本：google_diamond_valley_2025_bot (Google 超鑽感謝祭 2025)      
-    ~~[Github][18]~~ (Private)   
+   ~~[Github][18]~~ (Private)   
 
-    [18]: https://github.com/peter890331/google_diamond_valley_2025_bot
+   [18]: https://github.com/peter890331/google_diamond_valley_2025_bot
 
 16. 遊戲腳本：Beat_Team_Rocket_cmd_version (Pokémon Go)      
-    [Github][19]      
+   [Github][19]      
 
-    [19]: https://github.com/peter890331/Beat_Team_Rocket_cmd_version
+   [19]: https://github.com/peter890331/Beat_Team_Rocket_cmd_version
 
+17. 腳本App：Beat_Team_Rocket_App (Pokémon Go)      
+   [Github][22]      
+   [Youtube][23]      
+
+   [22]: https://github.com/peter890331/Beat_Team_Rocket_App
+   [23]: https://youtu.be/8oKPpNkwhcQ
+   
 ---
 
 ### 😢 My Leetcode stats
