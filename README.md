@@ -88,7 +88,7 @@
 
    [19]: https://github.com/peter890331/Beat_Team_Rocket_cmd_version
 
-17. 腳本App：Beat_Team_Rocket_App (Pokémon Go)      
+17. 遊戲腳本App：Beat_Team_Rocket_App (Pokémon Go)      
    [Github][22]      
    [Youtube][23]      
 
