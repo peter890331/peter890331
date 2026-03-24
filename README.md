@@ -94,6 +94,13 @@
 
    [22]: https://github.com/peter890331/Beat_Team_Rocket_App
    [23]: https://youtu.be/8oKPpNkwhcQ
+
+18. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)      
+   [Google Play][24]      
+   [Youtube][25]
+
+   [24]: https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app
+   [25]: https://youtu.be/treS8v0upj8
    
 ---
 
