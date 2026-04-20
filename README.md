@@ -101,6 +101,13 @@
 
    [24]: https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app
    [25]: https://youtu.be/treS8v0upj8
+
+19. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)       
+   [Google Play][26]      
+   [Youtube][27]
+
+   [26]: https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app
+   [27]: https://youtu.be/gIXPn4uHo8I
    
 ---
 
