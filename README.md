@@ -2,7 +2,7 @@
 
 #### Welcome to my coding corner.
 
-#### Connect with me: https://linktr.ee/peter890331
+#### 🔗 Connect with me: https://linktr.ee/peter890331
 
 ---
 ### 💾 My Projects
