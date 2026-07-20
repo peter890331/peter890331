@@ -55,27 +55,27 @@
    [13]: https://github.com/peter890331/new_autoshinyhunter_gui_version
    [21]: https://www.youtube.com/playlist?list=PLN0w7j_rRAO8jQKUtQZqwDHsG4QiPCuCx
 
-10. ~~擴充功能：拓元自動搶票助手~~      
-   ~~[Github][15]~~ (Private)        
-
-   [15]: https://github.com/peter890331/tixcraft-Automatic-Ticket-Snatch-Assistant
-   
-11. ~~擴充功能：台灣高鐵自動搶票助手~~      
-   ~~[Github][16]~~ (Private)          
-
-   [16]: https://github.com/peter890331/TaiwanHighSpeedRail-Automatic-Ticket-Snatch-Assistant
-
-12. 輔助工具：youtube_views_crawler      
-   [Github][17]
-
-   [17]: https://github.com/peter890331/youtube_views_crawler
-
-13. 遊戲腳本：Beat_Team_Rocket_App (Pokémon Go)      
+10. 遊戲腳本：Beat_Team_Rocket_App (Pokémon Go)      
    [Github][22]      
    [Youtube][23]      
 
    [22]: https://github.com/peter890331/Beat_Team_Rocket_App
    [23]: https://youtu.be/8oKPpNkwhcQ
+
+11. ~~擴充功能：拓元自動搶票助手~~      
+   ~~[Github][15]~~ (Private)        
+
+   [15]: https://github.com/peter890331/tixcraft-Automatic-Ticket-Snatch-Assistant
+   
+12. ~~擴充功能：台灣高鐵自動搶票助手~~      
+   ~~[Github][16]~~ (Private)          
+
+   [16]: https://github.com/peter890331/TaiwanHighSpeedRail-Automatic-Ticket-Snatch-Assistant
+
+13. 輔助工具：youtube_views_crawler      
+   [Github][17]
+
+   [17]: https://github.com/peter890331/youtube_views_crawler
 
 14. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)      
    [Google Play][24]      
