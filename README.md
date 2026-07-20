@@ -20,8 +20,10 @@
    [3]: https://github.com/peter890331/Transparent-Substrate-Antennas-Integrating-to-Self-Biased-Transceiver-Modules.git    
    [4]: https://youtu.be/ptymVCwnhSs
    
-3. 研究所計畫：財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法      
-4. 研究所計畫：財團法人工業技術研究院 (ITRI) 一一一年度勞務委託 負載預測情境報告蒐集       
+3. 研究所計畫：財團法人工業技術研究院 (ITRI) 電子與光電系統研究所 智能控制演算法
+   
+4. 研究所計畫：財團法人工業技術研究院 (ITRI) 一一一年度勞務委託 負載預測情境報告蒐集
+     
 5. 網頁腳本：Martingale-Strategy-on-FreeBitcoin-MANUAL-BET      
    [Github][7]
 
@@ -45,70 +47,55 @@
    [Github][12]
 
    [12]: https://github.com/peter890331/scrcpy_Auto_Wi-Fi_Connector
-
-9. 遊戲腳本：new_autoshinyhunter_cmd_version (Pokémon Go)    
-   ~~[Github][20]~~ (Private)   
-
-   [20]: https://github.com/peter890331/new_autoshinyhunter_cmd_version
    
-11. 遊戲腳本：new_autoshinyhunter_gui_version (Pokémon Go)      
+9. 遊戲腳本：new_autoshinyhunter_gui_version (Pokémon Go)      
    [Github][13]      
    [Youtube][21]
 
    [13]: https://github.com/peter890331/new_autoshinyhunter_gui_version
    [21]: https://www.youtube.com/playlist?list=PLN0w7j_rRAO8jQKUtQZqwDHsG4QiPCuCx
 
-11. 交易策略：self-made_banmuxia_MACD_strategy_indicator      
-    ~~[Github][14]~~ (Private)             
-
-   [14]: https://github.com/peter890331/self-made_banmuxia_MACD_strategy_indicator
-
-12. ~~擴充功能：拓元自動搶票助手~~      
+10. ~~擴充功能：拓元自動搶票助手~~      
    ~~[Github][15]~~ (Private)        
 
    [15]: https://github.com/peter890331/tixcraft-Automatic-Ticket-Snatch-Assistant
    
-13. ~~擴充功能：台灣高鐵自動搶票助手~~      
+11. ~~擴充功能：台灣高鐵自動搶票助手~~      
    ~~[Github][16]~~ (Private)          
 
    [16]: https://github.com/peter890331/TaiwanHighSpeedRail-Automatic-Ticket-Snatch-Assistant
 
-14. 輔助工具：youtube_views_crawler      
+12. 輔助工具：youtube_views_crawler      
    [Github][17]
 
    [17]: https://github.com/peter890331/youtube_views_crawler
 
-15. 遊戲腳本：google_diamond_valley_2025_bot (Google 超鑽感謝祭 2025)      
-   ~~[Github][18]~~ (Private)   
-
-   [18]: https://github.com/peter890331/google_diamond_valley_2025_bot
-
-16. 遊戲腳本：Beat_Team_Rocket_cmd_version (Pokémon Go)      
-   [Github][19]      
-
-   [19]: https://github.com/peter890331/Beat_Team_Rocket_cmd_version
-
-17. 遊戲腳本App：Beat_Team_Rocket_App (Pokémon Go)      
+13. 遊戲腳本：Beat_Team_Rocket_App (Pokémon Go)      
    [Github][22]      
    [Youtube][23]      
 
    [22]: https://github.com/peter890331/Beat_Team_Rocket_App
    [23]: https://youtu.be/8oKPpNkwhcQ
 
-18. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)      
+14. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)      
    [Google Play][24]      
    [Youtube][25]
 
    [24]: https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app
    [25]: https://youtu.be/treS8v0upj8
 
-19. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)       
+15. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)       
    [Google Play][26]      
    [Youtube][27]
 
    [26]: https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app
    [27]: https://youtu.be/gIXPn4uHo8I
-   
+
+16. 研究所論文：Balancing Economic and Environmental Objectives in Multi-Energy Networks Using Multi-Objective Reinforcement Learning with Dynamic Weight Adjustment      
+   ~~[Github][28]~~ (Private)
+
+   [28]: https://github.com/peter890331/Balancing-Economic-and-Environmental-Objectives-in-Multi-Energy-Networks-...
+
 ---
 
 ### 😢 My Leetcode stats
