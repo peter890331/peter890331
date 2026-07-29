@@ -101,7 +101,7 @@
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=github&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=github&include_all_commits=true)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/peter890331?theme=wtf&font=Bai%20Jamjuree)
 
