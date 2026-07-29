@@ -77,14 +77,17 @@
 
    [17]: https://github.com/peter890331/youtube_views_crawler
 
-14. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)      
+14. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)       
+   ![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty)      
    [Google Play][24]      
    [Youtube][25]
+   
 
    [24]: https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app
    [25]: https://youtu.be/treS8v0upj8
 
-15. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)       
+15. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)        
+   ![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty)         
    [Google Play][26]      
    [Youtube][27]
 
@@ -101,6 +104,16 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/peter890331?theme=wtf&font=Bai%20Jamjuree)
+
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark">
+   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app">
+</picture>
+
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark">
+   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app">
+</picture>
 
 ---
 Copyright © Peter Yu
