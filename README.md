@@ -78,7 +78,7 @@
    [17]: https://github.com/peter890331/youtube_views_crawler
 
 14. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)       
-   ![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty)      
+   ![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty&country=tw)      
    [Google Play][24]      
    [Youtube][25]
    
@@ -87,7 +87,7 @@
    [25]: https://youtu.be/treS8v0upj8
 
 15. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)        
-   ![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty)         
+   ![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw)         
    [Google Play][26]      
    [Youtube][27]
 
