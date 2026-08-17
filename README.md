@@ -1,6 +1,9 @@
 # Hi, I'm 游鎮遠 (Peter Yu)
 
-#### Welcome to my coding corner.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Welcome+to+my+coding+corner!;I'm+Peter+Yu." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FFFFFF&center=false&vCenter=false&width=800&lines=有用安卓手機玩+Pokemon+GO+的朋友們歡迎試用看看+亮晶晶點擊+和+友情翻頁器！;If+you+play+Pokemon+GO+on+Android,+feel+free+to+try+LuckyClick+and+FriendsTurner!" alt="Typing SVG" />
+</a>
 
 #### 🔗 Connect with me: https://linktr.ee/peter890331
 
@@ -75,3 +78,5 @@
 
 ---
 Copyright © Peter Yu
+
+![Views](https://komarev.com/ghpvc/?username=peter890331&style=flat&color=blue&label=PROFILE+VIEWS)
