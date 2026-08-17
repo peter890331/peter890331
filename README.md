@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=false&vCenter=false&width=1200&lines=有用安卓手機玩+Pokémon+GO+的朋友們歡迎試用看看+亮晶晶點擊+和+友情翻頁器+！;If+you+play+Pokémon+GO+on+Android,+feel+free+to+try+LuckyClick+and+FriendsTurner+!" alt="Typing SVG" />
 </a>
 
-#### 🔗 Connect with me: https://linktr.ee/peter890331
+[![Linktree](https://img.shields.io/badge/Linktree-🔗_Connect_with_me-1de0bd?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/peter890331)
 
 ---
 ### 💾 My Projects
