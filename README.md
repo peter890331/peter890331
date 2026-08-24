@@ -59,6 +59,7 @@
    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/hsUUWOTTzzQ)
 
 16. 研究所論文：Balancing Economic and Environmental Objectives in Multi-Energy Networks Using Multi-Objective Reinforcement Learning with Dynamic Weight Adjustment (NTHU)      
+[![Thesis](https://img.shields.io/badge/Thesis-NTHU-6E2A8D?style=flat&logo=read-the-docs&logoColor=white)](https://etd.lib.nthu.edu.tw/detail/8ee4a319b34126c98498164a49d81542/)
 
 ---
 
