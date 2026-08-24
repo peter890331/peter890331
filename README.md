@@ -24,11 +24,11 @@
 5. 網頁腳本：Martingale-Strategy-on-FreeBitcoin-MANUAL-BET      
    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/Martingale-Strategy-on-FreeBitcoin-MANUAL-BET)
    
-6. 遊戲輔助網頁：寶可補給站選秀會 - 潛在座標查詢器 - 中文版 (PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version) (Pokémon Go)      
+6. 遊戲輔助網頁：寶可補給站選秀會 - 潛在座標查詢器 - 中文版 (Pokémon Go)      
    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version)        
    [![Website](https://img.shields.io/badge/Website-Visit_Site-blue?logo=googlechrome)](https://peter890331.github.io/PokeStop_Showcase-Potential_Coords_Finder-Chinese_Version/)
 
-7. 遊戲輔助網頁：PokeStop Showcase - Potential Coords Finder - English Version (PokeStop_Showcase-Potential_Coords_Finder-English_Version) (Pokémon Go)      
+7. 遊戲輔助網頁：PokeStop Showcase - Potential Coords Finder - English Version (Pokémon Go)      
    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/PokeStop_Showcase-Potential_Coords_Finder-English_Version)        
    [![Website](https://img.shields.io/badge/Website-Visit_Site-blue?logo=googlechrome)](https://peter890331.github.io/PokeStop_Showcase-Potential_Coords_Finder-English_Version/)
 
