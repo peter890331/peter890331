@@ -9,11 +9,11 @@
 
 ---
 ### 💾 My Projects
-1. 高中專題：PS2 無線遙控教導式機械手臂      
+1. 高中專題：PS2 無線遙控教導式機械手臂 (TAIVS)      
    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/PS2-Wireless-Remote-Control-Teachable-Robotic-Arm.git)      
    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/B3R5VX4Qshs)
    
-2. 大學專題：整合至自偏壓收發機模組的透明基板天線      
+2. 大學專題：整合至自偏壓收發機模組的透明基板天線 (NTUT)      
    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/Transparent-Substrate-Antennas-Integrating-to-Self-Biased-Transceiver-Modules.git)      
    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/ptymVCwnhSs)
    
@@ -58,7 +58,7 @@
    [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw&v=20260817)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app)      
    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/hsUUWOTTzzQ)
 
-16. 研究所論文：Balancing Economic and Environmental Objectives in Multi-Energy Networks Using Multi-Objective Reinforcement Learning with Dynamic Weight Adjustment      
+16. 研究所論文：Balancing Economic and Environmental Objectives in Multi-Energy Networks Using Multi-Objective Reinforcement Learning with Dynamic Weight Adjustment (NTHU)      
 
 ---
 
@@ -67,13 +67,13 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/peter890331?theme=wtf&font=Bai%20Jamjuree)
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=20260817">
-   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&country=tw&v=20260817">
+   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=20260825">
+   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&country=tw&v=20260825">
 </picture>
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=20260817">
-   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=20260817">
+   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=20260825">
+   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=20260825">
 </picture>
 
 ---
