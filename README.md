@@ -51,11 +51,11 @@
    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/youtube_views_crawler)
 
 14. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)       
-   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty&country=tw&v=20260817)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app)      
+   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty&country=tw&v=20260904)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app)      
    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/6rjUUsiLyK0)
 
 15. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)        
-   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw&v=20260817)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app)      
+   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw&v=20260904)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app)      
    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/hsUUWOTTzzQ)
 
 16. 研究所論文：Balancing Economic and Environmental Objectives in Multi-Energy Networks Using Multi-Objective Reinforcement Learning with Dynamic Weight Adjustment (NTHU)      
