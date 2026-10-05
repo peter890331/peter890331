@@ -42,11 +42,11 @@
 10. ~~擴充功能：台灣高鐵自動搶票助手~~      
 
 11. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)       
-   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty&country=tw&v=2026/0916)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app)      
+   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty&country=tw&v=20261006)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app)      
    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/6rjUUsiLyK0)
 
 12. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)        
-   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw&v=2026/0916)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app)      
+   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw&v=20261006)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app)      
    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/hsUUWOTTzzQ)
 
 13. 研究所論文：Balancing Economic and Environmental Objectives in Multi-Energy Networks Using Multi-Objective Reinforcement Learning with Dynamic Weight Adjustment (NTHU)      
@@ -59,13 +59,13 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/peter890331?theme=wtf&font=Bai%20Jamjuree)
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=2026/0916">
-   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&country=tw&v=2026/0916">
+   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=20261006">
+   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&country=tw&v=20261006">
 </picture>
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=2026/0916">
-   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=2026/0916">
+   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=20261006">
+   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=20261006">
 </picture>
 
 ---
