@@ -7,6 +7,12 @@
 
 [![Linktree](https://img.shields.io/badge/Linktree-🔗_Connect_with_me-1de0bd?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/peter890331)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter890331/peter890331/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peter890331/peter890331/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/你的GitHub帳號/你的GitHub帳號/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 ### 💾 My Projects
 1. 高中專題：PS2 無線遙控教導式機械手臂 (TAIVS)      
@@ -53,14 +59,15 @@
    [![Thesis](https://img.shields.io/badge/Thesis-View_in_Repository-6E2A8D?style=flat&logo=read-the-docs&logoColor=white)](https://etd.lib.nthu.edu.tw/detail/8ee4a319b34126c98498164a49d81542/)
 
 14. 擴充功能：Auto Collect Play Points    
-   [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/Auto-Collect-Play-Points)        
+   [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/Auto-Collect-Play-Points)      
+   [![Stars](https://img.shields.io/github/stars/peter890331/Auto-Collect-Play-Points)](https://github.com/peter890331/Auto-Collect-Play-Points)
 
 <!-- 20261106 -->
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=github&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=github&include_all_commits=true)
+<!--[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=github&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=github&include_all_commits=true)-->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/peter890331?theme=wtf&font=Bai%20Jamjuree)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/peter890331?theme=wtf&font=Bai%20Jamjuree)-->
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=20261106">
@@ -73,6 +80,8 @@
 </picture>
 
 ---
+
 Copyright © Peter Yu
 
 ![Views](https://komarev.com/ghpvc/?username=peter890331&style=flat&color=blue&label=PROFILE+VIEWS)
+
