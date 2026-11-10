@@ -1,0 +1,29 @@
+name: Update Badges Date
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update date in README
+        run: |
+          TODAY=$(TZ='Asia/Taipei' date +%Y%m%d)
+          sed -i "s/v=[0-9]\{8\}/v=${TODAY}/g" README.md
+          sed -i "s/<!-- [0-9]\{8\} -->/<!-- ${TODAY} -->/g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update badge date to $TODAY"
+          git push
