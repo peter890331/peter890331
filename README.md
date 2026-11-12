@@ -48,11 +48,11 @@
 10. ~~擴充功能：台灣高鐵自動搶票助手~~      
 
 11. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)       
-   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty&country=tw&v=20261111)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app)      
+   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty&country=tw&v=20261112)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app)      
    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/6rjUUsiLyK0)
 
 12. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)        
-   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw&v=20261111)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app)      
+   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw&v=20261112)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app)      
    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/hsUUWOTTzzQ)
 
 13. 研究所論文：使用具動態權重調整之多目標強化學習平衡多能源網路中的經濟與環境目標 (NTHU)      
@@ -62,7 +62,7 @@
    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/Auto-Collect-Play-Points)      
    [![Stars](https://img.shields.io/github/stars/peter890331/Auto-Collect-Play-Points)](https://github.com/peter890331/Auto-Collect-Play-Points)
 
-<!-- 20261111 -->
+<!-- 20261112 -->
 ---
 
 <!--[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=github&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=github&include_all_commits=true)-->
@@ -70,13 +70,13 @@
 <!--![LeetCode Stats](https://leetcard.jacoblin.cool/peter890331?theme=wtf&font=Bai%20Jamjuree)-->
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=20261111">
-   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&country=tw&v=20261111">
+   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=20261112">
+   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&country=tw&v=20261112">
 </picture>
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=20261111">
-   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=20261111">
+   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=20261112">
+   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=20261112">
 </picture>
 
 ---
