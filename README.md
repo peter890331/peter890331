@@ -62,7 +62,7 @@
    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/Auto-Collect-Play-Points)      
    [![Stars](https://img.shields.io/github/stars/peter890331/Auto-Collect-Play-Points)](https://github.com/peter890331/Auto-Collect-Play-Points)
 
-15. White Noise / ASMR：Aether Audio    
+15. YouTube 頻道：Aether Audio (White Noise / ASMR)    
    [![YouTube](https://img.shields.io/badge/YouTube-View_Channel-red?logo=youtube)](https://www.youtube.com/@AetherAudio-WhiteNoise)
 
 <!-- 20261116 -->
