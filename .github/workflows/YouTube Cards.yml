@@ -1,0 +1,21 @@
+name: YouTube Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCjeM8crLIB6QEWcgHqjADMQ
+          max_videos: 1
+          card_width: 250
+          background_color: "#0d1117"
+          title_color: "#ffffff"
+          stats_color: "#dedede"
