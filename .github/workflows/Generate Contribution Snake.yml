@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 permissions:
   contents: write
@@ -20,7 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Contribution Snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -31,7 +31,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push snake to output branch
+      - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
