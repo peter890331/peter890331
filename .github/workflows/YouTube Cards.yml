@@ -11,12 +11,17 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Get current date
+        id: date
+        run: echo "today=$(TZ='Asia/Taipei' date +'%Y/%m/%d')" >> $GITHUB_OUTPUT
+
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCjeM8crLIB6QEWcgHqjADMQ
           max_videos: 1
-          card_width: 380
+          card_width: 350
           max_title_lines: 2
           background_color: "#0d1117"
           title_color: "#ffffff"
           stats_color: "#dedede"
+          commit_message: ${{ steps.date.outputs.today }}
