@@ -63,9 +63,7 @@
    [![Stars](https://img.shields.io/github/stars/peter890331/Auto-Collect-Play-Points)](https://github.com/peter890331/Auto-Collect-Play-Points)
 
 15. YouTube 頻道：Aether Audio (White Noise / ASMR)    
-   <!-- BEGIN YOUTUBE-CARDS -->
-[![10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR](https://ytcards.demolab.com/?id=mMeQzTff1lE&title=10+Hours+Thunderstorm+%26+Hourly+Frog+Calls+%7C+Sleep%2C+Relax%2C+Focus+%7C+White+Noise+%2F+ASMR&lang=en&timestamp=1795059011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR")](https://www.youtube.com/watch?v=mMeQzTff1lE)
-<!-- END YOUTUBE-CARDS -->
+   [![YouTube](https://img.shields.io/badge/YouTube-View_Channel-red?logo=youtube)](https://www.youtube.com/@AetherAudio-WhiteNoise)
 
 <!-- 20261119 -->
 ---
@@ -83,6 +81,10 @@
    <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=20261119">
    <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=20261119">
 </picture>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR](https://ytcards.demolab.com/?id=mMeQzTff1lE&title=10+Hours+Thunderstorm+%26+Hourly+Frog+Calls+%7C+Sleep%2C+Relax%2C+Focus+%7C+White+Noise+%2F+ASMR&lang=en&timestamp=1795059011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR")](https://www.youtube.com/watch?v=mMeQzTff1lE)
+<!-- END YOUTUBE-CARDS -->
 
 ---
 
