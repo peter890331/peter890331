@@ -47,45 +47,38 @@
    
 10. ~~擴充功能：台灣高鐵自動搶票助手~~      
 
-11. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)       
-   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty&country=tw&v=20261119)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app)      
-   [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/6rjUUsiLyK0)
+11. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)<br>
+    [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty&country=tw&v=20261119)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app)<br>
+    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/6rjUUsiLyK0)<br>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=20261119">
+      <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&country=tw&v=20261119">
+    </picture>
 
-12. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)        
-   [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw&v=20261119)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app)      
-   [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/hsUUWOTTzzQ)
+12. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)<br>
+    [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw&v=20261119)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app)<br>
+    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/hsUUWOTTzzQ)<br>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=20261119">
+      <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=20261119">
+    </picture>
 
-13. 研究所論文：使用具動態權重調整之多目標強化學習平衡多能源網路中的經濟與環境目標 (NTHU)      
-   [![Thesis](https://img.shields.io/badge/Thesis-View_in_Repository-6E2A8D?style=flat&logo=read-the-docs&logoColor=white)](https://etd.lib.nthu.edu.tw/detail/8ee4a319b34126c98498164a49d81542/)
+13. 研究所論文：使用具動態權重調整之多目標強化學習平衡多能源網路中的經濟與環境目標 (NTHU)<br>
+    [![Thesis](https://img.shields.io/badge/Thesis-View_in_Repository-6E2A8D?style=flat&logo=read-the-docs&logoColor=white)](https://etd.lib.nthu.edu.tw/detail/8ee4a319b34126c98498164a49d81542/)
 
-14. 擴充功能：Auto Collect Play Points    
-   [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/Auto-Collect-Play-Points)      
-   [![Stars](https://img.shields.io/github/stars/peter890331/Auto-Collect-Play-Points)](https://github.com/peter890331/Auto-Collect-Play-Points)
+14. 擴充功能：Auto Collect Play Points<br>
+    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/Auto-Collect-Play-Points)<br>
+    [![Stars](https://img.shields.io/github/stars/peter890331/Auto-Collect-Play-Points)](https://github.com/peter890331/Auto-Collect-Play-Points)
 
-15. YouTube 頻道：Aether Audio (White Noise / ASMR)    
-   [![YouTube](https://img.shields.io/badge/YouTube-View_Channel-red?logo=youtube)](https://www.youtube.com/@AetherAudio-WhiteNoise)
+15. YouTube 頻道：Aether Audio (White Noise / ASMR)<br>
+    [![YouTube](https://img.shields.io/badge/YouTube-View_Channel-red?logo=youtube)](https://www.youtube.com/@AetherAudio-WhiteNoise)<br>
+    <!-- BEGIN YOUTUBE-CARDS -->
+    <a href="https://www.youtube.com/watch?v=mMeQzTff1lE">
+      <img src="https://ytcards.demolab.com/?id=mMeQzTff1lE&title=10+Hours+Thunderstorm+%26+Hourly+Frog+Calls+%7C+Sleep%2C+Relax%2C+Focus+%7C+White+Noise+%2F+ASMR&lang=en×tamp=1795059011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=350&border_radius=5" alt="10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR">
+    </a>
+    <!-- END YOUTUBE-CARDS -->
 
 <!-- 20261119 -->
----
-
-<!--[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=github&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=peter890331&rank_icon=github&include_all_commits=true)-->
-
-<!--![LeetCode Stats](https://leetcard.jacoblin.cool/peter890331?theme=wtf&font=Bai%20Jamjuree)-->
-
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=20261119">
-   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&country=tw&v=20261119">
-</picture>
-
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=20261119">
-   <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=20261119">
-</picture>
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR](https://ytcards.demolab.com/?id=mMeQzTff1lE&title=10+Hours+Thunderstorm+%26+Hourly+Frog+Calls+%7C+Sleep%2C+Relax%2C+Focus+%7C+White+Noise+%2F+ASMR&lang=en&timestamp=1795059011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=350&border_radius=5 "10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR")](https://www.youtube.com/watch?v=mMeQzTff1lE)
-<!-- END YOUTUBE-CARDS -->
-
 ---
 
 Copyright © Peter Yu
