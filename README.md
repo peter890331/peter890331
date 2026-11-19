@@ -72,12 +72,16 @@
     [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/Auto-Collect-Play-Points)<br>
     [![Stars](https://img.shields.io/github/stars/peter890331/Auto-Collect-Play-Points)](https://github.com/peter890331/Auto-Collect-Play-Points)
 
-15. YouTube 頻道：Aether Audio (White Noise / ASMR)<br>
-    [![YouTube](https://img.shields.io/badge/YouTube-View_Channel-red?logo=youtube)](https://www.youtube.com/@AetherAudio-WhiteNoise)
+<ol start="15">
+<li>
+YouTube 頻道：Aether Audio (White Noise / ASMR)<br>
+<a href="https://www.youtube.com/@AetherAudio-WhiteNoise"><img src="https://img.shields.io/badge/YouTube-View_Channel-red?logo=youtube" alt="YouTube"></a><br>
 
-    <!-- BEGIN YOUTUBE-CARDS -->
-[![10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR](https://ytcards.demolab.com/?id=mMeQzTff1lE&title=10+Hours+Thunderstorm+%26+Hourly+Frog+Calls+%7C+Sleep%2C+Relax%2C+Focus+%7C+White+Noise+%2F+ASMR&lang=en&timestamp=1795059011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=350&border_radius=5 "10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR")](https://www.youtube.com/watch?v=mMeQzTff1lE)
+<!-- BEGIN YOUTUBE-CARDS -->
+[![10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR](https://ytcards.demolab.com/?id=mMeQzTff1lE&title=10+Hours+Thunderstorm+%26+Hourly+Frog+Calls+%7C+Sleep%2C+Relax%2C+Focus+%7C+White+Noise+%2F+ASMR&lang=en×tamp=1795059011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=350&border_radius=5 "10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR")](https://www.youtube.com/watch?v=mMeQzTff1lE)
 <!-- END YOUTUBE-CARDS -->
+</li>
+</ol>
 
 <!-- 20261119 -->
 ---
