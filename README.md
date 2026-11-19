@@ -49,18 +49,20 @@
 
 11. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)<br>
     [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty&country=tw&v=20261119)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app)<br>
-    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/6rjUUsiLyK0)<br>
+    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/6rjUUsiLyK0)
+
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=20261119">
-      <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&country=tw&v=20261119">
+    <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=20261119">
+    <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&country=tw&v=20261119">
     </picture>
 
 12. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)<br>
     [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw&v=20261119)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app)<br>
-    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/hsUUWOTTzzQ)<br>
+    [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/hsUUWOTTzzQ)
+
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=20261119">
-      <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=20261119">
+    <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=20261119">
+    <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=20261119">
     </picture>
 
 13. 研究所論文：使用具動態權重調整之多目標強化學習平衡多能源網路中的經濟與環境目標 (NTHU)<br>
@@ -71,11 +73,10 @@
     [![Stars](https://img.shields.io/github/stars/peter890331/Auto-Collect-Play-Points)](https://github.com/peter890331/Auto-Collect-Play-Points)
 
 15. YouTube 頻道：Aether Audio (White Noise / ASMR)<br>
-    [![YouTube](https://img.shields.io/badge/YouTube-View_Channel-red?logo=youtube)](https://www.youtube.com/@AetherAudio-WhiteNoise)<br>
+    [![YouTube](https://img.shields.io/badge/YouTube-View_Channel-red?logo=youtube)](https://www.youtube.com/@AetherAudio-WhiteNoise)
+
     <!-- BEGIN YOUTUBE-CARDS -->
-    <a href="https://www.youtube.com/watch?v=mMeQzTff1lE">
-      <img src="https://ytcards.demolab.com/?id=mMeQzTff1lE&title=10+Hours+Thunderstorm+%26+Hourly+Frog+Calls+%7C+Sleep%2C+Relax%2C+Focus+%7C+White+Noise+%2F+ASMR&lang=en×tamp=1795059011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=350&border_radius=5" alt="10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR">
-    </a>
+    [![10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR](https://ytcards.demolab.com/?id=mMeQzTff1lE&title=10+Hours+Thunderstorm+%26+Hourly+Frog+Calls+%7C+Sleep%2C+Relax%2C+Focus+%7C+White+Noise+%2F+ASMR&lang=en×tamp=1795059011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=350&border_radius=5 "10 Hours Thunderstorm & Hourly Frog Calls | Sleep, Relax, Focus | White Noise / ASMR")](https://www.youtube.com/watch?v=mMeQzTff1lE)
     <!-- END YOUTUBE-CARDS -->
 
 <!-- 20261119 -->
