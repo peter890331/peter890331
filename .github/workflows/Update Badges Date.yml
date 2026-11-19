@@ -22,8 +22,9 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          COMMIT_DATE=$(TZ='Asia/Taipei' date +'%Y/%m/%d')
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update badge date to $TODAY"
+          git diff --quiet && git diff --staged --quiet || git commit -m "$COMMIT_DATE"
           git push
