@@ -69,8 +69,7 @@
     [![Thesis](https://img.shields.io/badge/Thesis-View_in_Repository-6E2A8D?style=flat&logo=read-the-docs&logoColor=white)](https://etd.lib.nthu.edu.tw/detail/8ee4a319b34126c98498164a49d81542/)
 
 14. 擴充功能：Auto Collect Play Points<br>
-    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/Auto-Collect-Play-Points)<br>
-    [![Stars](https://img.shields.io/github/stars/peter890331/Auto-Collect-Play-Points)](https://github.com/peter890331/Auto-Collect-Play-Points)
+    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?logo=github)](https://github.com/peter890331/Auto-Collect-Play-Points)
 
 <ol start="15">
 <li>
