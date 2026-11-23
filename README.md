@@ -77,7 +77,7 @@ YouTube 頻道：Aether Audio (White Noise / ASMR)<br>
 <a href="https://www.youtube.com/@AetherAudio-WhiteNoise"><img src="https://img.shields.io/badge/YouTube-View_Channel-red?logo=youtube" alt="YouTube"></a><br>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![10 Hours Flowing River & Hourly Mole Cricket Chirps | Sleep, Relax, Focus | White Noise / ASMR](https://ytcards.demolab.com/?id=UXlDJB2RfaQ&title=10+Hours+Flowing+River+%26+Hourly+Mole+Cricket+Chirps+%7C+Sleep%2C+Relax%2C+Focus+%7C+White+Noise+%2F+ASMR&lang=en&timestamp=1795300239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=350&border_radius=5 "10 Hours Flowing River & Hourly Mole Cricket Chirps | Sleep, Relax, Focus | White Noise / ASMR")](https://www.youtube.com/watch?v=UXlDJB2RfaQ)
+[![10 Hours Keyboard Typing & Hourly Bell Chimes | Sleep, Relax, Focus | White Noise / ASMR](https://ytcards.demolab.com/?id=-Ix_JAnf2KY&title=10+Hours+Keyboard+Typing+%26+Hourly+Bell+Chimes+%7C+Sleep%2C+Relax%2C+Focus+%7C+White+Noise+%2F+ASMR&lang=en&timestamp=1795385720&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=350&border_radius=5 "10 Hours Keyboard Typing & Hourly Bell Chimes | Sleep, Relax, Focus | White Noise / ASMR")](https://www.youtube.com/watch?v=-Ix_JAnf2KY)
 <!-- END YOUTUBE-CARDS -->
 </li>
 </ol>
