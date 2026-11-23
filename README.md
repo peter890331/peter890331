@@ -48,21 +48,21 @@
 10. ~~擴充功能：台灣高鐵自動搶票助手~~      
 
 11. 商店上架App：亮晶晶點擊 (LuckyClick) (Pokémon Go)<br>
-    [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty&country=tw&v=20261122)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app)<br>
+    [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.luckyclick.app&pretty&country=tw&v=20261123)](https://play.google.com/store/apps/details?id=com.peter890331.luckyclick.app)<br>
     [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/6rjUUsiLyK0)
 
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=20261122">
-    <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&country=tw&v=20261122">
+    <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&theme=dark&country=tw&v=20261123">
+    <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.luckyclick.app&country=tw&v=20261123">
     </picture>
 
 12. 商店上架App：友情翻頁器 (FriendsTurner) (Pokémon Go)<br>
-    [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw&v=20261122)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app)<br>
+    [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-045963?logo=googleplay)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app) [![Downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.peter890331.friendsturner.app&pretty&country=tw&v=20261123)](https://play.google.com/store/apps/details?id=com.peter890331.friendsturner.app)<br>
     [![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?logo=youtube)](https://youtu.be/hsUUWOTTzzQ)
 
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=20261122">
-    <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=20261122">
+    <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&theme=dark&country=tw&v=20261123">
+    <img alt="PlayBadges Card Folo" src="https://playbadges.pavi2410.com/badge/full?id=com.peter890331.friendsturner.app&country=tw&v=20261123">
     </picture>
 
 13. 研究所論文：使用具動態權重調整之多目標強化學習平衡多能源網路中的經濟與環境目標 (NTHU)<br>
@@ -82,7 +82,7 @@ YouTube 頻道：Aether Audio (White Noise / ASMR)<br>
 </li>
 </ol>
 
-<!-- 20261122 -->
+<!-- 20261123 -->
 ---
 
 Copyright © Peter Yu
